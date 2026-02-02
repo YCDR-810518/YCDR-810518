@@ -27,16 +27,20 @@
 
 **📧E-mail**： [yaochen@mails.gdut.edu.cn](mailto:yaochen@mails.gdut.edu.cn)
 
-### 📊 GitHub 统计 (Stats)
+### 📊 GitHub 活跃数据 (Stats)
 
 <p align="center">
-  <img width="480px" src="https://github-readme-stats.vercel.app/api?username=YCDR-810518&show_icons=true&theme=radical&cache_seconds=1800" alt="Stats" />
+  <img src="https://img.shields.io/badge/GitHub-Commits-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-获取中-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rank-Level%20A-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
-<br/> 
+---
 
-### 🚀 访客足迹
+### 🚀 访客足迹 (Visitor Count)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YCDR-810518&label=访客统计&color=005BAC&style=flat-square" alt="Visitor Count" />
-</div>
+<p align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=YCDR-810518&label=VIEWS&color=005BAC&style=for-the-badge" />
+  <br />
+</p>
